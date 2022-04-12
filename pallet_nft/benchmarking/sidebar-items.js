@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["CLASS_ID_0",""],["ENDOWMENT",""],["SEED",""]],"enum":[["SelectedBenchmark",""]],"fn":[["create_account",""],["do_create_class",""],["do_mint",""],["dollar",""]],"struct":[["burn",""],["create_class",""],["destroy_class",""],["mint",""],["transfer",""]]});

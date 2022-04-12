@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["AssetType",""]],"struct":[["AssetDetails",""],["AssetMetadata",""]]});
