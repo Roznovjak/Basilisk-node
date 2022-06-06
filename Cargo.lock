@@ -5706,7 +5706,7 @@ dependencies = [
 
 [[package]]
 name = "pallet-exchange"
-version = "5.2.9"
+version = "5.2.10"
 dependencies = [
  "frame-support",
  "frame-system",
@@ -5846,7 +5846,7 @@ dependencies = [
 
 [[package]]
 name = "pallet-lbp"
-version = "4.3.4"
+version = "4.3.3"
 dependencies = [
  "frame-benchmarking",
  "frame-support",
@@ -6057,7 +6057,7 @@ dependencies = [
 
 [[package]]
 name = "pallet-nft"
-version = "2.2.2"
+version = "1.2.2"
 dependencies = [
  "frame-benchmarking",
  "frame-support",
@@ -6529,7 +6529,7 @@ dependencies = [
 
 [[package]]
 name = "pallet-xyk"
-version = "3.4.9"
+version = "3.3.9"
 dependencies = [
  "frame-benchmarking",
  "frame-support",
